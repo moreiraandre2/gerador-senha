@@ -1,6 +1,6 @@
 <h1>Gerador de senha simples</h1>
 
-<img src="/gerador-senha/img.jpg" alt="Alt text" title="Optional title">
+<img src="/img.jpg" alt="Gerador de senha" title="Gerador de senha">
 
 <p>Gerador de senha com base em um número de caracteres digitado</p>
 
